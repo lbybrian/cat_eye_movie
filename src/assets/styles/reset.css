@@ -1,0 +1,285 @@
+*,
+::before,
+::after {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html,
+body{
+	overflow: hidden;
+	height: 100%;
+}
+::-webkit-scrollbar{
+	display: none;
+}
+html{
+	background-color: #EEEEEE;
+	color: #212121;
+	font-size: 100px;
+	-webkit-user-select: none;
+}
+body{
+	margin: 0;
+	font-size: 0.14em;
+	line-height: 1.5;
+	font-family: PingFangSC-Regular,Hiragino Sans GB, sans-serif
+}
+ul,
+ol,
+dl,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+figure,
+form,
+fieldset,
+legend,
+input,
+textarea,
+button,
+p,
+blockquote,
+th,
+td,
+pre,
+xmp {
+	margin: 0;
+	padding: 0;
+}
+
+input,
+textarea,
+button,
+select,
+pre,
+xmp,
+tt,
+code,
+kbd,
+samp {
+	line-height: inherit;
+	font-family: inherit;
+}
+ 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+small,
+big,/*使字体更大，H5不支持*/
+input,
+textarea,
+button,
+select{
+	font-size:inherit;
+}
+
+address,
+cite,
+dfn,
+em,
+i,
+optgroup,
+var{
+	font-style: normal;
+}
+
+table{
+	border-collapse: collapse;
+	border-spacing: 0;
+	table-layout: fixed;
+	text-align: left;
+}
+
+ul,
+ol,
+menu{
+	list-style: none;
+}
+
+fieldset,
+img{
+	border: 0;
+	vertical-align: middle;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section,
+summary{
+	display: block;
+}
+
+
+
+audio,
+canvas,
+video{
+	display: inline-block;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after{
+	content: "\0020";
+}
+
+textarea,
+pre,
+xmp{
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
+}
+
+textarea{
+	resize: vertical;
+}
+
+input,
+textarea,
+button,
+select{
+	color: inherit;
+}
+
+
+input:disabled,
+textarea:disabled,
+button:disabled,
+select:disabled{
+	opacity: 1;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner{
+	padding: 0;
+	border: 9;
+}
+
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+input[type="file"]::-webkit-file-upload-button,
+input[type="search"]::-webkit-search-cancel-button {
+	-webkit-appearance: none;
+	appearance: none;
+}
+
+::-webkit-details-marker{
+	display: none;
+}
+
+mark{
+	background-color: rgba(0,0,0,0) ;
+}
+
+a,
+ins,
+s,
+u,
+del{
+	text-decoration: none;
+}
+
+a,
+img{
+	-webkit-touch-callout: none;
+}
+
+a{
+	color: #00AFC7;
+}
+
+
+.g-clear::after,
+.g-mod::after{
+	display: block;
+	overflow: hidden;
+	clear: both;
+	height: 0;
+	content: "\0020";
+}
+
+
+/*TODO:src路径不明*/
+@font-face {
+	font-family:yofont;
+	src: url(https:ss.qunarzz.com/yo/font/1.0.3/yofont.woff) format("woff"),url(https://ss.qunarzz.com/yo/font/1.0.3/yofont.ttf) format("turetype");
+}
+
+
+.yo-ico{
+	font-family: yofont !important;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	vertical-align: middle;
+	-moz-osx-font-smoothing:grayscale;
+	/*webkit-font-smoothing 是webkit在自己的渲染引擎中增加的对字体抗锯齿的调整。这个调整在ios中表现比较明显，在windows中表现的不是很明显。ont-smoothing是非标准的css渲染规则，由于不同操作系统对字体渲染不同，不同浏览器也有自己对样式的一套解释规则，所以这个css样式至今也没有加入web标准。
+这个样式的主要功能是对字体的锯齿进行调整。
+2015.07.03 16:56:15
+字数 467阅读 3,987
+作者：Miss____Du
+链接：https://www.jianshu.com/p/6f022c65775f
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。*/
+}
+
+
+.icon-arrow-bottom{
+	width: 0;
+	height: 0;
+	border: 4px solid #B0B0B0;
+	border-left-color: transparent;
+	border-right-color: transparent;
+	border-bottom-color: transparent;
+	display: inline-block;
+	margin-left: 4px;
+	margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

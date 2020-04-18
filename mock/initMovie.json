@@ -1,0 +1,293 @@
+{
+	"coming": [],
+	"movieIds": [
+		1279731,
+		1190122,
+		1218273,
+		1228869,
+		1298827,
+		1214142,
+		1303,
+		1196202,
+		1298938,
+		1284594,
+		1201272,
+		443387,
+		1297995,
+		247949,
+		1281095,
+		1237279,
+		1203825,
+		1220983,
+		1213293,
+		346409,
+		1258163,
+		1203046,
+		341823,
+		1299333,
+		1217041,
+		1217125,
+		1227006,
+		78826,
+		1261203,
+		1163219,
+		1218474,
+		1251281,
+		1255359,
+		1250662,
+		1257417,
+		1182619,
+		1301459,
+		1277644,
+		605319,
+		336934,
+		1301296,
+		1238837,
+		1212608,
+		1286126,
+		1201270,
+		1216185,
+		1278147,
+		1280015,
+		630554,
+		1302299,
+		9246,
+		296717,
+		1283,
+		14070,
+		12145,
+		1219,
+		216703,
+		22210,
+		1278447,
+		528501,
+		1284726,
+		1283759,
+		1277527,
+		1217701
+	],
+	"stid": "576591972453269000",
+	"stids": [
+		{
+			"movieId": 1279731,
+			"stid": "576591972453269000_a1279731_c0"
+		}, {
+			"movieId": 1190122,
+			"stid": "576591972453269000_a1190122_c1"
+		}, {
+			"movieId": 1218273,
+			"stid": "576591972453269000_a1218273_c2"
+		}, {
+			"movieId": 1228869,
+			"stid": "576591972453269000_a1228869_c3"
+		}, {
+			"movieId": 1298827,
+			"stid": "576591972453269000_a1298827_c4"
+		}, {
+			"movieId": 1214142,
+			"stid": "576591972453269000_a1214142_c5"
+		}, {
+			"movieId": 1303,
+			"stid": "576591972453269000_a1303_c6"
+		}, {
+			"movieId": 1196202,
+			"stid": "576591972453269000_a1196202_c7"
+		}, {
+			"movieId": 1298938,
+			"stid": "576591972453269000_a1298938_c8"
+		}, {
+			"movieId": 1284594,
+			"stid": "576591972453269000_a1284594_c9"
+		}, {
+			"movieId": 1201272,
+			"stid": "576591972453269000_a1201272_c10"
+		}, {
+			"movieId": 443387,
+			"stid": "576591972453269000_a443387_c11"
+		}
+	],
+	"total": 64,
+	"movieList": [
+		{
+			"id": 1279731,
+			"haspromotionTag": false,
+			"img": "http://p0.meituan.net/w.h/movie/c6d7c3d84d54abc910f85468db9985362428931.jpg",
+			"version": "",
+			"nm": "宠爱",
+			"preShow": false,
+			"sc": 9,
+			"globalReleased": true,
+			"wish": 294938,
+			"star": "于和伟,吴磊,张子枫",
+			"rt": "2019-12-31",
+			"showInfo": "今天227家影院放映2998场",
+			"showst": 3,
+			"wishst": 0
+		}, {
+			"id": 1190122,
+			"haspromotionTag": false,
+			"img": "http://p0.meituan.net/w.h/movie/a3d6ca3bdd5b0ddd7016acff9a9f2f2e2805813.jpg",
+			"version": "",
+			"nm": "叶问4：完结篇",
+			"preShow": false,
+			"sc": 9.5,
+			"globalReleased": true,
+			"wish": 295118,
+			"star": "甄子丹,吴樾,吴建豪",
+			"rt": "2019-12-20",
+			"showInfo": "今天220家影院放映1523场",
+			"showst": 3,
+			"wishst": 0
+		}, {
+			"id": 1218273,
+			"haspromotionTag": false,
+			"img": "http://p1.meituan.net/w.h/movie/967b253953bc7e660cfadbf9d78f67b62852693.jpg",
+			"version": "v2d imax",
+			"nm": "误杀",
+			"preShow": false,
+			"sc": 9.5,
+			"globalReleased": true,
+			"wish": 40632,
+			"star": "肖央,谭卓,陈冲",
+			"rt": "2019-12-13",
+			"showInfo": "今天219家影院放映1436场",
+			"showst": 3,
+			"wishst": 0
+		}, {
+			"id": 1228869,
+			"haspromotionTag": false,
+			"img": "http://p0.meituan.net/w.h/movie/9064b787a533d85fa2d2f8ad486351861051512.jpg",
+			"version": "",
+			"nm": "半个喜剧",
+			"preShow": false,
+			"sc": 9,
+			"globalReleased": true,
+			"wish": 34803,
+			"star": "任素汐,吴昱翰,刘迅",
+			"rt": "2019-12-20",
+			"showInfo": "今天170家影院放映665场",
+			"showst": 3,
+			"wishst": 0
+		}, {
+			"id": 1298827,
+			"haspromotionTag": false,
+			"img": "http://p0.meituan.net/w.h/moviemachine/718b092ea60a6ff210d6026319dd1ef46836867.jpg",
+			"version": "",
+			"nm": "亲爱的新年好",
+			"preShow": false,
+			"sc": 7.8,
+			"globalReleased": true,
+			"wish": 84039,
+			"star": "白百何,张子枫,魏大勋",
+			"rt": "2019-12-31",
+			"showInfo": "今天214家影院放映1057场",
+			"showst": 3,
+			"wishst": 0
+		}, {
+			"id": 1214142,
+			"haspromotionTag": false,
+			"img": "http://p1.meituan.net/w.h/moviemachine/979531e95cace9abb4c6b74c6a0fdd486176654.jpg",
+			"version": "v3d",
+			"nm": "变身特工",
+			"preShow": false,
+			"sc": 0,
+			"globalReleased": false,
+			"wish": 13789,
+			"star": "威尔·史密斯,汤姆·赫兰德,凯伦·吉兰",
+			"rt": "2020-01-03",
+			"showInfo": "今天1家影院放映1场",
+			"showst": 4,
+			"wishst": 0
+		}, {
+			"id": 1303,
+			"haspromotionTag": false,
+			"img": "http://p1.meituan.net/w.h/movie/580d81a2c78bf204f45323ddb4244b6c6821175.jpg",
+			"version": "",
+			"nm": "美丽人生",
+			"preShow": false,
+			"sc": 0,
+			"globalReleased": false,
+			"wish": 19070,
+			"star": "罗伯托·贝尼尼,尼可莱塔·布拉斯基,乔治·坎塔里尼",
+			"rt": "2020-01-03",
+			"showInfo": "2020-01-03 本周五上映",
+			"showst": 4,
+			"wishst": 0
+		}, {
+			"id": 1196202,
+			"haspromotionTag": false,
+			"img": "http://p0.meituan.net/w.h/movie/6f1881b0a1a3f2dd0478f2a68edec8d2966760.jpg",
+			"version": "",
+			"nm": "天使陷落",
+			"preShow": false,
+			"sc": 9,
+			"globalReleased": true,
+			"wish": 18012,
+			"star": "杰拉德·巴特勒,摩根·弗里曼,贾达·萍克·史密斯",
+			"rt": "2019-12-31",
+			"showInfo": "今天178家影院放映624场",
+			"showst": 3,
+			"wishst": 0
+		}, {
+			"id": 1298938,
+			"haspromotionTag": false,
+			"img": "http://p0.meituan.net/w.h/moviemachine/ea2f020406b22f6c66a1004087f434e051195.jpg",
+			"version": "v3d",
+			"nm": "熊出没·狂野大陆",
+			"preShow": true,
+			"sc": 0,
+			"globalReleased": false,
+			"wish": 51108,
+			"star": "张秉君,谭笑,张伟",
+			"rt": "2020-01-25",
+			"showInfo": "2020-01-25上映",
+			"showst": 4,
+			"wishst": 0
+		}, {
+			"id": 1284594,
+			"haspromotionTag": false,
+			"img": "http://p0.meituan.net/w.h/movie/326fb54acb9c4feab45f1f3988568e571769525.jpg",
+			"version": "",
+			"nm": "我为你牺牲",
+			"preShow": false,
+			"sc": 0,
+			"globalReleased": true,
+			"wish": 3772,
+			"star": "李琦,国永振,陈姝",
+			"rt": "2019-12-05",
+			"showInfo": "今天15家影院放映49场",
+			"showst": 3,
+			"wishst": 0
+		}, {
+			"id": 1201272,
+			"haspromotionTag": false,
+			"img": "http://p0.meituan.net/w.h/movie/fcd2245e7b3a49c5d08766039788c984259804.jpg",
+			"version": "",
+			"nm": "为家而战",
+			"preShow": true,
+			"sc": 0,
+			"globalReleased": false,
+			"wish": 28731,
+			"star": "佛罗伦斯·珀,道恩·强森,杰克·劳登",
+			"rt": "2020-01-10",
+			"showInfo": "2020-01-10 下周五上映",
+			"showst": 4,
+			"wishst": 0
+		}, {
+			"id": 443387,
+			"haspromotionTag": false,
+			"img": "http://p0.meituan.net/w.h/moviemachine/a16716ff2873be37857add59f882e44d5071965.jpg",
+			"version": "v3d imax",
+			"nm": "星球大战：天行者崛起",
+			"preShow": false,
+			"sc": 7.7,
+			"globalReleased": true,
+			"wish": 66461,
+			"star": "凯丽·费雪,马克·哈米尔,亚当·德赖弗",
+			"rt": "2019-12-20",
+			"showInfo": "今天110家影院放映298场",
+			"showst": 3,
+			"wishst": 0
+		}
+	]
+}
